@@ -7,7 +7,7 @@ AI and human creativity combine to create a new AI-native Era. They work togethe
 Developers are now becoming AI collaborators, not just coders. This is because the developer focuses on the thinking work like project planning , evaluation, system design, and orchestrating the workflow. Meanwhile, the AI acts as a skilled coder that can write code, solve errors, and implement features autonomously.
 
 # What made October 2025 the global AI Turning Point
-    Evaluation-Driven Development was introduce when developers become the collaborator as they evaluate-redefine the prompt-and iterate.
+Evaluation-Driven Development was introduce when developers become the collaborator as they evaluate-redefine the prompt-and iterate.
 
 
 
@@ -55,3 +55,4 @@ c. Avoiding AI tools
 d. Manual workflows
 
 ans: B
+

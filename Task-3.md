@@ -20,5 +20,8 @@ Google AntiGravity: An Agentic IDE for gemini 3.0 to act as autonomous coding pa
 Bash Tools:It gives Gemini 3.0 the ability to issue and execute standard Linux/Unix command-line instructions. This allows the model to navigate file systems, install dependencies,different modalities simultaneously.
 
 # part-2
-![downloading-Cli-latest]( cli.png"downloading latest version")
-![Preview-features-enabled]( cli-enabled.png"preview option enabled")
+![downloading-Cli-latest]( cli.png"downloading latest version")<img width="960" height="540" alt="cli" src="https://github.com/user-attachments/assets/c9878d1e-c12d-49e1-8cd4-4491af60763e" />
+
+
+![Preview-features-enabled]( cli-enabled.png"preview option enabled")<img width="960" height="540" alt="cli-enabled" src="https://github.com/user-attachments/assets/f358d143-316e-4092-8fe9-19f9af847e21" />
+

@@ -1,6 +1,6 @@
 import streamlit as st
-from calculator.calculator_logic import add_value, evaluate_expression, clear_expression, backspace_delete
-from calculator.ui_components import create_calculator_grid
+from .calculator_logic import add_value, evaluate_expression, clear_expression, backspace_delete
+from .ui_components import create_calculator_grid
 
 # Initialize session state
 if 'expression' not in st.session_state:
